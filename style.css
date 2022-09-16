@@ -1,0 +1,42 @@
+body{
+
+    background-color: lemonchiffon;
+}
+img    {
+    border-radius: 10%;
+}
+ h3{
+    font-style:oblique;
+    background-color: hwb(49 28% 0%);
+}
+
+.header{
+    background-image: url('minhaFoto.jpeg')
+    
+}
+
+.nometamanho{
+    font-size: smaller;
+}
+.nometamanho2{
+    font-size: small;
+}
+.nometamanho3{
+    font-size: medium;
+}
+.nometamanho4{
+    font-size: large;
+}
+
+.habilidades{
+    text-align: center;
+    
+}
+.indice{
+    text-align: center;
+}
+.minhafoto{
+    text-align: ;
+    
+    
+}
