@@ -42,25 +42,24 @@ img    {
     float: left;
     height: 214px;
     padding: 20px ;
-    background-color: brown;
+    
     
     
     
 }
 .div1{
-   background-color: aqua;
+   
 }
 
 .div2{
-    background-color: blue;
     height: 250px;
     position: relative;
 }
 
 #sobreMim{
     position: absolute;
-    top: 100px;
-    right: 17%;
+    top: 180px;
+    right: 63%;
 
 }
 
